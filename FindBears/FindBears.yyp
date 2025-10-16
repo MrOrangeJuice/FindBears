@@ -36,6 +36,7 @@
   "name":"FindBears",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sBlock","path":"sprites/sBlock/sBlock.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
